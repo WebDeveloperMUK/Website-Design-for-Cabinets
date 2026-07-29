@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){"undefined"!=typeof Swiper&&new Swiper(".testimonail-swiper",{loop:!0,navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}})}));

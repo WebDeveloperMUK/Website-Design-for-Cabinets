@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){const e=document.querySelectorAll(".wp-block-webdevia-carousel");e.length&&e.forEach((e=>{new Swiper(e,JSON.parse(e.dataset.options))}))}));
